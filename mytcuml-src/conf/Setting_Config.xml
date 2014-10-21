@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<CMConfig>
+    <Config name="com.topcoder.umltool.deploy">
+        <Property name="SettingFile">
+            <Value>conf/Valid.properties</Value>
+        </Property>
+        <Property name="DiagramFontSize">
+            <Value>9</Value>
+        </Property>
+        <Property name="FontSize">
+            <Value>12</Value>
+        </Property>
+        <Property name="Width">
+            <Value>1936</Value>
+        </Property>
+        <Property name="Height">
+            <Value>1056</Value>
+        </Property>
+        <Property name="ImportDependencyLocation">
+            <Value>/Users/nanda/Documents/temp/test</Value>
+        </Property>
+        <Property name="LastOpenProject">
+            <Value>C:/tc/AST-hunter/ADH_Architecture/Asteroid_Data_Hunter.tcuml</Value>
+        </Property>
+        <Property name="LastImageExportPath">
+            <Value></Value>
+        </Property>
+        <Property name="AutoSave">
+            <Value>true</Value>
+        </Property>
+        <Property name="Antialiasing">
+            <Value>true</Value>
+        </Property>
+        <Property name="AutoGenerateMethods">
+            <Value>true</Value>
+        </Property>
+        <Property name="BackupDirectory">
+            <Value>C:/Backup</Value>
+        </Property>
+        <Property name="SwiftCreation">
+            <Value>false</Value>
+        </Property>
+        <Property name="AddOperationAutomatic">
+            <Value>false</Value>
+        </Property>
+        <Property name="LastOpenProjects">
+            <Value>C:/tc/AST-hunter/ADH_Architecture/Asteroid_Data_Hunter.tcuml</Value>
+            <Value>C:/tc/GMA-API/Gmail_API_Search_and_Delete_Tool.tcuml</Value>
+            <Value>C:/tc/SRT-sync/SRT_Cloud_Synchronization_Module_Architecture_FF4/SRT_Cloud_Synchronization_Module_Architecture_FF4/SRT_Cloud_Sync.tcuml</Value>
+            <Value>C:/tc/CRO-service/Engrafa Architecture Final Fixes/Engrafa Architecture Final Fixes/CrowdReason_Engrafa_Service.tcuml</Value>
+            <Value>C:/tc/cro-engrafa/Engrafa Architecture Final Fixes/Engrafa Architecture Final Fixes/CrowdReason_Engrafa_Service.tcuml</Value>
+            <Value>C:/tc/OPM-report/OPM Reporting Architecture 02062014/5.final/OPM_Reporting_v1.3.tcuml</Value>
+            <Value>C:/tc/OPM-bug1/OPM_Data_Services.tcuml</Value>
+            <Value>C:/tc/Funktional/Trackster_Frontend_Module_Architecture/Trackster_Frontend.tcuml</Value>
+            <Value>C:/tc/arev/opm_rule/bre_mod_ff/OPM_Rule_Engine_Module_Part_2.tcuml</Value>
+            <Value>C:/tc/rev_midas/General Services Module Architecture/General Services/Midas_Analytics_Engine_General_Services.tcuml</Value>
+        </Property>
+        <Property name="rightDivideLocation">
+            <Value>801</Value>
+        </Property>
+    </Config>
+</CMConfig>
